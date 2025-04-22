@@ -1,3 +1,3 @@
 # project1
 This is my first Git Repository
-Author - Sritulasi
+Author - Sritulasi P
